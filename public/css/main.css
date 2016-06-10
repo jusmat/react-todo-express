@@ -1,0 +1,17 @@
+body {
+  background-image: url('/images/background.jpg');
+}
+
+.styled-row {
+  background: white;
+  margin-bottom: 1px;
+}
+
+input.editable {
+  height: 20;
+  margin-bottom: 0px;
+}
+
+form {
+  margin-bottom: 0px;
+}
